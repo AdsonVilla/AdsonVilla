@@ -1,7 +1,7 @@
 ### 👋 Olá, mundo! Sou Adson Villacorta
 
 
-- 🔭 Atualmente, estudo desenvolvimento de Frontend
+- 🔭 Atualmente, estudo e atuo em projetos de desenvolvimento web, com maior foco em Frontend
 - 🌱 Estou aprendendo Node.js e PostgreSQL para desenvolver projetos mais completos
 
 <div align="center">
