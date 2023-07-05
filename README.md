@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente, estudo e atuo em projetos de desenvolvimento web, com maior foco em Frontend
-- 🌱 Estou aprendendo NextJS
+- 🌱 Estou aprendendo NextJS e TypeScript
 
 <div align="center">
 <a href="https://github.com/adsonvilla">
