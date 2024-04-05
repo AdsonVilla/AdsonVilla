@@ -1,8 +1,8 @@
 ### 👋 Olá, mundo! Sou Adson Villacorta
 
 
-- 🔭 Atualmente, estudo e atuo em projetos de desenvolvimento web, com maior foco em Front-end;
-- 🌱 Estou aprendendo mais sobre NextJS e TypeScript.
+- 🔭 Atualmente, atuo como analista de projetos web e mobile, com foco em qualidade do produto;
+- 🌱 Estou aprendendo mais sobre Cloud e DevOps.
 
 <div align="center">
 <a href="https://github.com/adsonvilla">
