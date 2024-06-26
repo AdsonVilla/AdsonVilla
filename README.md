@@ -1,8 +1,8 @@
 ### 👋 Olá, mundo! Sou Adson Villacorta
 
 
-- 🔭 Atualmente, atuo como analista de projetos web e mobile, com foco em qualidade do produto;
-- 🌱 Estou aprendendo mais sobre Cloud e DevOps.
+- 🔭 Atualmente, atuo como analista de projetos de TI, com foco em qualidade do produto;
+- 🌱 Estou aprendendo sobre Cloud (especificamente AWS) e DevOps.
 
 <div align="center">
 <a href="https://github.com/adsonvilla">
